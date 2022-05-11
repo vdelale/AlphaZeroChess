@@ -1,0 +1,10 @@
+*.pyc
+.DS_Store
+
+__pycache__/
+
+# checkpoint
+checkpoints/
+
+# For PyCharm users
+.idea/
